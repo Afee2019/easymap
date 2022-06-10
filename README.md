@@ -1,2 +1,2 @@
-# leemap
-A simple GIS software by Golang.
+# easymap
+GIS should be easy.
